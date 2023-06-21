@@ -1,0 +1,112 @@
+#logoname{ 
+    font-size: 35px;
+    font-family: 'Caveat', cursive;
+}
+.logo{
+    width: 35px;
+    height: 35px;
+    margin-left: 10px;
+}
+#container-fluid{
+    font-size: 10rem;
+}
+
+.heart{
+width: 20px;
+height: 20px;
+}
+
+#button1{
+    color: black;
+    border-color: black;  
+    margin-top: 20px; 
+}
+
+#button2{
+    background-color: black;
+    border-color: black;
+    margin-top: 20px; 
+}
+
+
+
+#navbar11{
+    padding:0;
+    color:white;
+}
+
+.carousel-inner{
+  text-align: center;
+}
+
+#img1{
+    
+    width:1400px;
+    height: 800px;
+    padding-top: 100px;
+
+}
+#harsh-gandu{
+   
+}
+#quote1{
+    margin-top: 100px;
+    font-family: 'Caveat', cursive;
+    font-size: 6rem;
+}
+#lead{
+    font-size:2rem;
+}
+
+.text-body-secondary{
+    font-size: 1.5rem ;
+    
+}
+
+.fw-bold{
+    font-size: 3rem;
+}
+
+.fw-semibold {
+    font-size: 2rem;
+}
+
+.container{
+    margin: 100px;
+}
+
+#cards{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.card{
+    margin: 50px;
+    
+}
+
+body{
+    background-image: url("images/cover5.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#cards-section{
+    padding: 30px;
+    margin: 40px;
+}
+
+.text-body-secondary{
+    font-size:22px;
+}
+.card-title{
+    font-size: 28px;
+}
+
+.btn{
+    width:40%;
+    margin-left:20px;
+    margin-bottom: 20px;
+}
